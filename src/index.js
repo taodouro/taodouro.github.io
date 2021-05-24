@@ -18,7 +18,7 @@ import CheckoutForm from "views/Loja/CheckoutForm.js";
 
 var hist = createBrowserHistory();
 
-var mainLink = "/taodsite"
+var mainLink = "/"
 
 ReactDOM.render(
   <BrowserRouter basename={mainLink} history={hist} >

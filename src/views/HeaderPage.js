@@ -1,7 +1,6 @@
 import React from "react";
 import Header from "components/Header/Header.js";
 import HeaderLinks from "components/Header/HeaderLinks.js";
-import { Link } from "react-router-dom";
 import icon from "assets/img/headerIcon.png"
 import "assets/css/header.css"
 
