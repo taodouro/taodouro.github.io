@@ -1,0 +1,12 @@
+
+a {
+  color:  #ffffff;
+ }
+
+a:hover {
+ color:  #bfbfbf;
+}
+
+a:focus {
+  color:  #ffffff;
+ }
