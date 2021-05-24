@@ -4,7 +4,6 @@ import styles from "assets/jss/material-kit-react/views/cancioneiroPage.js";
 import GridItem from "components/Grid/GridItem.js";
 import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
-import { Divider } from '@material-ui/core';
 import { Link } from "react-router-dom";
 import Card from "components/Card/Card.js";
 import "./Loja.css";
@@ -62,7 +61,8 @@ function recalculate() {
 
     document.getElementById("carrinho").innerHTML = "<b>Carrinho: </b>";
     if (preco != 0) {
-        document.getElementById("checkout_button").setAttribute("class", "MuiButtonBase-root MuiButton-root WithStyles(ForwardRef(Button))-root-115 MuiButton-text");
+        document.getElementById("checkout_button").setAttribute('class',"MuiButtonBase-root MuiButton-root WithStyles(ForwardRef(Button))-root-115 MuiButton-text")
+        document.getElementById("checkout_button").setAttribute('aria-disabled', false);
         document.getElementById("carrinho_desc").innerHTML = desc;
         document.getElementById("carrinho_total").innerHTML = "Total: " + preco + "€";
         if (preco != preco_socio) {
@@ -71,7 +71,8 @@ function recalculate() {
             document.getElementById("carrinho_total_socio").innerHTML = ""
         }
     } else {
-        document.getElementById("checkout_button").setAttribute("class", "MuiButtonBase-root MuiButton-root WithStyles(ForwardRef(Button))-root-115 MuiButton-text Mui-disabled Mui-disabled");
+        document.getElementById("checkout_button").setAttribute('class',"MuiButtonBase-root MuiButton-root WithStyles(ForwardRef(Button))-root-115 MuiButton-text Mui-disabled")
+        document.getElementById("checkout_button").setAttribute('aria-disabled', true);
         document.getElementById("carrinho_desc").innerHTML = "";
         document.getElementById("carrinho_total").innerHTML = "";
         document.getElementById("carrinho_total_socio").innerHTML = ""
@@ -112,13 +113,13 @@ const CheckoutButton = withStyles({
         borderRadius: 7,
         '&:hover': {
             backgroundColor: "#92d1a8",
-            color: 'green'
+            color: 'white'
         },
         '&:focus': {
             backgroundColor: "#1DB954",
-            color: 'green'
+            color: 'white'
         },
-        color: "green",
+        color: "white",
         marginLeft: 10,
         marginRight: 10,
         marginTop: 10,
@@ -145,7 +146,7 @@ export default function Carrinho() {
                             <LabelTotal id="carrinho_total" variant="h4" align="center"/> 
                             <LabelTotal id="carrinho_total_socio" variant="h4" align="center"/> 
                             <CheckoutButton id="checkout_button" component={Link} to="/checkout" disabled >
-                           <b> Checkout</b> 
+                           <b>Checkout</b> 
                             </CheckoutButton>
                        
                 </Card >
