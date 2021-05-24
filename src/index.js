@@ -21,7 +21,7 @@ var hist = createBrowserHistory();
 var mainLink = "/"
 
 ReactDOM.render(
-  <BrowserRouter basename={mainLink} history={hist} >
+  <BrowserRouter basename={mainLink} history={hist}>
     <Switch>
       <Route path="/acercataod" component={AcercaPage} />
       <Route path="/premios" component={Premios} />
