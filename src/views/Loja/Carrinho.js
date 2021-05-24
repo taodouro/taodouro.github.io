@@ -112,13 +112,13 @@ const CheckoutButton = withStyles({
         borderRadius: 7,
         '&:hover': {
             backgroundColor: "#92d1a8",
-            color: 'white'
+            color: 'green'
         },
         '&:focus': {
             backgroundColor: "#1DB954",
-            color: 'white'
+            color: 'green'
         },
-        color: "white",
+        color: "green",
         marginLeft: 10,
         marginRight: 10,
         marginTop: 10,
