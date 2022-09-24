@@ -222,7 +222,7 @@ export default function CheckoutForm(props) {
                             onChange={(e) => { changeTelefone(e,setErrorTelefone)}} error={error_telefone.length === 0 ? false : true  } helperText={error_telefone} onKeyUp={(e) => { changeTelefone(e,setErrorTelefone)}} />
                             <br />
                             <TextFieldCheckoutMessage id="mensagem" type='text' name='mensagem' placeholder='Mensagem' label="Mensagem" variant="outlined" 
-                            onChange={(e) => { CheckoutFormValues.message = e.target.value }} />
+                            onChange={(e) => { CheckoutFormValues.mensagem = e.target.value }} />
                             <br />
                             <SendButton onClick={sendEmail}>Enviar</SendButton>
                         </form>
