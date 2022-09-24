@@ -1,34 +1,40 @@
 {
     "items": [
         {
+            "nome": "Bira Dos Namorados",
+            "foto": "bira.png",
+            "desconto": "7.5% de desconto no total da compra (não acumulável com outros descontos) com apresentação do cartão de sócio.",
+            "link": "https://www.biradosnamorados.pt/"
+        },
+        {
             "nome": "Total centro de Estudo",
             "foto": "total_centro_estudo.jpg",
-            "desconto": "10€ de desconto na mensalidade.",
+            "desconto": "10€ de desconto na mensalidade com apresentação do cartão de sócio.",
             "link": "https://www.facebook.com/centrodeestudostotal/"
         },
         {
             "nome": "Alfredo Moreira Fonseca",
             "foto": "alfredo_moreira_fonseca.jpg",
-            "desconto": "5 a 10 % de desconto em compras efetuadas no Alfredo Moreira Fonseca.",
+            "desconto": "5 a 10 % de desconto em compras efetuadas com apresentação do cartão de sócio.",
             "link": "https://www.facebook.com/Alfredo-Moreira-da-Fonseca-455567971204925/"
         },
         {
             "nome": "Clínica Dentária Silvia Baptista",
             "foto": "clinica_dentaria_silvia_baptista.png",
-            "desconto": "10% de desconto em todos as consultas/tratamentos (não acumulável com outros descontos).",
+            "desconto": "10% de desconto em todos as consultas/tratamentos (não acumulável com outros descontos) com apresentação do cartão de sócio.",
             "link": ""
         },
         {
             "nome": "Farmácia Alves de Oliveira",
             "foto": "farmacia_alves_oliveira.png",
-            "desconto": "10% de desconto em todos os produtos/compras (não acumulável com outros descontos).",
+            "desconto": "10% de desconto em todos os produtos/compras (não acumulável com outros descontos) com apresentação do cartão de sócio.",
             "link": "https://www.farmaciasdeservico.net/f/20117/Farmacia_Alves_de_Oliveira/"
         },
         {
             "nome": "Douroluz",
             "foto": "douroluz.png",
-            "desconto": "10% de desconto em todos os produtos/compras (não acumulável com outros descontos).",
-            "link": "https://www.farmaciasdeservico.net/f/20117/Farmacia_Alves_de_Oliveira/"
+            "desconto": "10% de desconto em todos os produtos/compras (não acumulável com outros descontos) com apresentação do cartão de sócio.",
+            "link": ""
         }
     ]
 }
