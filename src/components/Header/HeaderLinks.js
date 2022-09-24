@@ -129,6 +129,23 @@ export default function HeaderLinks(props) {
       </ListItem>
       <ListItem className={classes.listItem}>
         <Tooltip
+          id="tiktok-tooltip"
+          title="Siga-nos no TikTok"
+          placement={window.innerWidth > 959 ? "top" : "left"}
+          classes={{ tooltip: classes.tooltip }}
+        >
+          <Button
+            color="transparent"
+            href="https://open.spotify.com/artist/1FTrFPaGDJL5BJkZWuMErD?si=hAluQBz2RRKTmvWC1po-xg"
+            target="_blank"
+            className={classes.navLink}
+          >
+            <i className={classes.socialIcons + " fab fa-tiktok"} />
+          </Button>
+        </Tooltip>
+      </ListItem>
+      <ListItem className={classes.listItem}>
+        <Tooltip
           id="spotify-tooltip"
           title="Siga-nos no Spotify"
           placement={window.innerWidth > 959 ? "top" : "left"}
