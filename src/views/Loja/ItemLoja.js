@@ -116,17 +116,17 @@ export default function ItemLoja(props) {
         <GridItem xs={12} id={"gridItem_" + nome}>
             <Card className={classes[cardAnimaton]} id={"card_" + nome}>
                 <GridContainer justify="center">
-                    <GridItem xs={6} id={"gridItem_" + nome}>
+                    <GridItem style={{ margin: "auto" }} xs={6} id={"gridItem_" + nome}>
                         <div id={"card_" + nome} className="imageCard">
                             <Slider {...carousel_settings} className="slick-slider-2">
                                 {fotos}
                             </Slider>
                         </div>
                     </GridItem >
-                    <GridItem xs={6} id={"gridItem_" + nome}>
+                    <GridItem style={{ margin: "auto" }} xs={6} id={"gridItem_" + nome}>
                         <GridContainer justify="flex-end">
                             <GridItem xs={12} id={"gridItem2_" + nome}>
-                                <Typography style={{ marginTop: 70 }} variant="h4" component="h2">
+                                <Typography variant="h4" component="h2">
                                     {nome}
                                 </Typography>
                                 <Typography variant="h6" component="h2">
