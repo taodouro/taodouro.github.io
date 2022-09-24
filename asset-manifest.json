@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.6701b67c.chunk.css",
-    "main.js": "/static/js/main.b2ee2119.chunk.js",
-    "main.js.map": "/static/js/main.b2ee2119.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9b867dc7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9b867dc7.js.map",
-    "static/js/2.20b426a9.chunk.js": "/static/js/2.20b426a9.chunk.js",
-    "static/js/2.20b426a9.chunk.js.map": "/static/js/2.20b426a9.chunk.js.map",
+    "main.css": "/static/css/main.14dfd540.chunk.css",
+    "main.js": "/static/js/main.0ce391c4.chunk.js",
+    "main.js.map": "/static/js/main.0ce391c4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f74c18f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f74c18f6.js.map",
+    "static/js/2.eb8653cf.chunk.js": "/static/js/2.eb8653cf.chunk.js",
+    "static/js/2.eb8653cf.chunk.js.map": "/static/js/2.eb8653cf.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.48940d262f7d1d5ecdca80974376079d.js": "/precache-manifest.48940d262f7d1d5ecdca80974376079d.js",
+    "precache-manifest.3398f38baa8a8bf8625cba6b03238c19.js": "/precache-manifest.3398f38baa8a8bf8625cba6b03238c19.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.6701b67c.chunk.css.map": "/static/css/main.6701b67c.chunk.css.map",
-    "static/js/2.20b426a9.chunk.js.LICENSE.txt": "/static/js/2.20b426a9.chunk.js.LICENSE.txt",
+    "static/css/main.14dfd540.chunk.css.map": "/static/css/main.14dfd540.chunk.css.map",
+    "static/js/2.eb8653cf.chunk.js.LICENSE.txt": "/static/js/2.eb8653cf.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.f2cd019d.jpg",
     "static/media/10300277_797997193557839_6448900840884838097_n.jpg": "/static/media/10300277_797997193557839_6448900840884838097_n.037869fc.jpg",
     "static/media/10325367_789226737784215_7699705597989847400_n.jpg": "/static/media/10325367_789226737784215_7699705597989847400_n.60912c06.jpg",
@@ -177,6 +177,7 @@
     "static/media/andre_ramos.jpg": "/static/media/andre_ramos.b049ae70.jpg",
     "static/media/armando.jpg": "/static/media/armando.ec0aa6db.jpg",
     "static/media/bicademia.jpg": "/static/media/bicademia.8f0bb29f.jpg",
+    "static/media/bira.png": "/static/media/bira.ab1de54a.png",
     "static/media/camar.jpg": "/static/media/camar.592dba40.jpg",
     "static/media/carla.jpg": "/static/media/carla.3e65499c.jpg",
     "static/media/carla_sofia.jpg": "/static/media/carla_sofia.22592c3d.jpg",
@@ -208,6 +209,7 @@
     "static/media/ines_santos.jpg": "/static/media/ines_santos.3de3ca02.jpg",
     "static/media/jessica.jpg": "/static/media/jessica.17acf6d0.jpg",
     "static/media/jessica_lemos.jpg": "/static/media/jessica_lemos.0fd7ca36.jpg",
+    "static/media/jessica_lemos_tuno.jpg": "/static/media/jessica_lemos_tuno.e66ee1e4.jpg",
     "static/media/joana_dias.jpg": "/static/media/joana_dias.5e820715.jpg",
     "static/media/joao_mendes.jpg": "/static/media/joao_mendes.30836e5b.jpg",
     "static/media/joao_vitor.jpg": "/static/media/joao_vitor.ecd08879.jpg",
@@ -241,9 +243,9 @@
     "static/media/xavier_barbosa.jpg": "/static/media/xavier_barbosa.d8eaab72.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b867dc7.js",
-    "static/js/2.20b426a9.chunk.js",
-    "static/css/main.6701b67c.chunk.css",
-    "static/js/main.b2ee2119.chunk.js"
+    "static/js/runtime-main.f74c18f6.js",
+    "static/js/2.eb8653cf.chunk.js",
+    "static/css/main.14dfd540.chunk.css",
+    "static/js/main.0ce391c4.chunk.js"
   ]
 }

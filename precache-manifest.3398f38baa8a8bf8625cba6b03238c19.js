@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ff779c722c8303fadfc412ed6604f2e",
+    "revision": "f3cbc2833429f911ecdcb52790c3bfa6",
     "url": "/index.html"
   },
   {
-    "revision": "6d69ad808698673ceb89",
-    "url": "/static/css/main.6701b67c.chunk.css"
+    "revision": "27ec9db8700f6da446f1",
+    "url": "/static/css/main.14dfd540.chunk.css"
   },
   {
-    "revision": "62028ca0ab4b11e38f08",
-    "url": "/static/js/2.20b426a9.chunk.js"
+    "revision": "f3f25a52d9cbedbcf391",
+    "url": "/static/js/2.eb8653cf.chunk.js"
   },
   {
-    "revision": "0421623e68e415d62de679db40f1d6d5",
-    "url": "/static/js/2.20b426a9.chunk.js.LICENSE.txt"
+    "revision": "0023facb0adb4f9ea5db701618575fa8",
+    "url": "/static/js/2.eb8653cf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6d69ad808698673ceb89",
-    "url": "/static/js/main.b2ee2119.chunk.js"
+    "revision": "27ec9db8700f6da446f1",
+    "url": "/static/js/main.0ce391c4.chunk.js"
   },
   {
-    "revision": "20ed822a59ac22fc316b",
-    "url": "/static/js/runtime-main.9b867dc7.js"
+    "revision": "365f3815322e49a0707b",
+    "url": "/static/js/runtime-main.f74c18f6.js"
   },
   {
     "revision": "51865ba46253a78220f3cf3e48ad71c6",
@@ -696,6 +696,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bicademia.8f0bb29f.jpg"
   },
   {
+    "revision": "ab1de54ae054bd91c81ae8b034613df3",
+    "url": "/static/media/bira.ab1de54a.png"
+  },
+  {
     "revision": "592dba409f100c1b93b2a1673f8346df",
     "url": "/static/media/camar.592dba40.jpg"
   },
@@ -818,6 +822,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0fd7ca36d619b15e2d7b4f2f88eee6c9",
     "url": "/static/media/jessica_lemos.0fd7ca36.jpg"
+  },
+  {
+    "revision": "e66ee1e47bc4005f0a99eb0228faf85e",
+    "url": "/static/media/jessica_lemos_tuno.e66ee1e4.jpg"
   },
   {
     "revision": "5e8207155f6b839e8708a2a503ddb254",
