@@ -1,15 +1,16 @@
 {
-    "magister": {
-        "nome": "Leonardo Moura",
-        "img_src": "leonardo_moura",
+    
+    "magister":{
+        "nome": "Xavier Barbosa",
+        "img_src": "xavier_barbosa",
         "padrinho": "",
-        "madrinha": "Liliana Azevedo",
-        "entrada": "2017",
-        "passagem": "2020",
-        "instrumento": "Guitarra",
+        "madrinha": "Ana Baptista",
+        "entrada": "2018",
+        "passagem": "",
+        "instrumento": "Flauta Transversal",
         "naipe": "Baixo",
         "curso": "Engenharia Informática",
-        "escola": "FEUP"
+        "escola": "ISEP"
     },
     "vice": {
         "nome": "Inês Almeida",
@@ -18,48 +19,12 @@
         "madrinha": "Marco Araújo",
         "entrada": "2015",
         "passagem": "2018",
-        "instrumento": "Guitarra",
+        "instrumento": "Percussão",
         "naipe": "Soprano",
         "curso": "Educação Básica",
         "escola": "ESEPF"
     },
     "membros": [
-        {
-            "nome": "Ricardo Monteiro",
-            "img_src": "ricardo_monteiro",
-            "padrinho": "Pedro Monteiro",
-            "madrinha": "Vânia Monteiro",
-            "entrada": "2002",
-            "passagem": "2003",
-            "instrumento": "Percussão",
-            "naipe": "Baixo",
-            "curso": "Engenharia Mecânica",
-            "escola": "FEUP"
-        },
-        {
-            "nome": "Fábio Pinto",
-            "img_src": "fabio_pinto",
-            "padrinho": "Tiago Mendes",
-            "madrinha": "Vânia Alves",
-            "entrada": "2007",
-            "passagem": "2010",
-            "instrumento": "",
-            "naipe": "Baixo",
-            "curso": "Ciências e Tecnologia do Ambiente",
-            "escola": "FCUP"
-        },
-        {
-            "nome": "Gonçalo Pereira",
-            "img_src": "goncalo_pereira",
-            "padrinho": "André Gomes",
-            "madrinha": "Inês Carneiro",
-            "entrada": "2010",
-            "passagem": "2013",
-            "instrumento": "Guitarra e Pandeireta",
-            "naipe": "Tenor",
-            "curso": "Saúde Ambiental",
-            "escola": "ESTSP"
-        },
         {
             "nome": "Inês Dionísio",
             "img_src": "ines_dionisio",
@@ -83,43 +48,7 @@
             "naipe": "Contralto",
             "curso": "Economia",
             "escola": "FEP"
-        },
-        {
-            "nome": "Tânia Santos",
-            "img_src": "tania_santos",
-            "padrinho": "Gonçalo Pereira",
-            "madrinha": "Rafaela Pereira",
-            "entrada": "2014",
-            "passagem": "2017",
-            "instrumento": "Pandeireta",
-            "naipe": "Soprano",
-            "curso": "Enfermagem",
-            "escola": "ESS-IPVC"
-        },
-        {
-            "nome": "Catarina Castro",
-            "img_src": "catarina_castro",
-            "padrinho": "André Gomes",
-            "madrinha": "Andreia Silva",
-            "entrada": "2013",
-            "passagem": "2016",
-            "instrumento": "Flauta transversal",
-            "naipe": "Soprano",
-            "curso": "Engenharia do Ambiente",
-            "escola": "FEUP"
-        }, 
-        {
-            "nome": "Hugo Guedes",
-            "img_src": "hugo_guedes",
-            "padrinho": "Marco Araújo",
-            "madrinha": "Andreia Silva",
-            "entrada": "2013",
-            "passagem": "2016",
-            "instrumento": "Cordas",
-            "naipe": "Baixo",
-            "curso": "Gestão do Património",
-            "escola": "ESE"
-        },    
+        },   
         {
             "nome": "Mafalda Silva",
             "img_src": "mafalda_silva",
@@ -145,18 +74,6 @@
             "escola": "ESMAE"
         },
         {
-            "nome": "Ana Rita Santos",
-            "img_src": "ana_rita_santos",
-            "padrinho": "Fábio Pinto",
-            "madrinha": "Marco Araújo",
-            "entrada": "2015",
-            "passagem": "2018",
-            "instrumento": "Percussão",
-            "naipe": "Contralto",
-            "curso": "Enfermagem",
-            "escola": "Instituto Piaget"
-        },
-        {
             "nome": "Inês Almeida",
             "img_src": "ines_almeida",
             "padrinho": "André Gomes",
@@ -179,18 +96,6 @@
             "naipe": "Soprano",
             "curso": "Medicina dentária",
             "escola": "UFP"
-        },
-        {
-            "nome": "Isabel Pereira",
-            "img_src": "isabel_pereira",
-            "padrinho": "Diogo Santos",
-            "madrinha": "",
-            "entrada": "2015",
-            "passagem": "2018",
-            "instrumento": "Cavaquinho",
-            "naipe": "Soprano",
-            "curso": "Multimédia",
-            "escola": "ESMAD"
         },
         {
             "nome": "Jorge Mendes",
@@ -229,42 +134,6 @@
             "escola": "ESTH-IPG"
         },
         {
-            "nome": "Diogo Sá Dias",
-            "img_src": "diogo_sa_dias",
-            "padrinho": "Diogo Santos",
-            "madrinha": "",
-            "entrada": "2016",
-            "passagem": "2019",
-            "instrumento": "Bandolim",
-            "naipe": "Tenor",
-            "curso": "Engenharia Informática",
-            "escola": "ISEP"
-        },
-        {
-            "nome": "Nicole Pinto",
-            "img_src": "nicole_pinto",
-            "padrinho": "",
-            "madrinha": "Inês Dionísio",
-            "entrada": "2016",
-            "passagem": "2019",
-            "instrumento": "Pandeireta",
-            "naipe": "Soprano",
-            "curso": "Geografia",
-            "escola": "FLUP"
-        },
-        {
-            "nome": "Gonçalo Valadar",
-            "img_src": "goncalo_valadar",
-            "padrinho": "Ricardo Monteiro",
-            "madrinha": "",
-            "entrada": "2017",
-            "passagem": "2019",
-            "instrumento": "Pandeireta",
-            "naipe": "Baixo",
-            "curso": "Desporto",
-            "escola": "ISMAI"
-        },
-        {
             "nome": "Catarina Coutinho",
             "img_src": "catarina_coutinho",
             "padrinho": "",
@@ -289,24 +158,12 @@
             "escola": "FEUP"
         },
         {
-            "nome": "Maria João Gonçalves",
-            "img_src": "maria_joao_gonçalves",
-            "padrinho": "",
-            "madrinha": "Ana Baptista",
-            "entrada": "2017",
-            "passagem": "2020",
-            "instrumento": "Cavaquinho",
-            "naipe": "Contralto",
-            "curso": "Enfermagem",
-            "escola": "ESSSM"
-        },
-        {
             "nome": "Rafael Silva",
             "img_src": "rafael_silva",
             "padrinho": "Hugo Guedes",
             "madrinha": "",
             "entrada": "2017",
-            "passagem": "",
+            "passagem": "2021",
             "instrumento": "Percussão",
             "naipe": "Tenor",
             "curso": "Gestão de marketing",
@@ -325,42 +182,6 @@
             "escola": "FCUP"
         },
         {
-            "nome": "Márcia Pena",
-            "img_src": "marcia_pena",
-            "padrinho": "",
-            "madrinha": "",
-            "entrada": "2018",
-            "passagem": "",
-            "instrumento": "Violino",
-            "naipe": "Contralto",
-            "curso": "Medicina",
-            "escola": "ICBAS"
-        },
-        {
-            "nome": "Ana Laura",
-            "img_src": "ana_laura",
-            "padrinho": "",
-            "madrinha": "",
-            "entrada": "2018",
-            "passagem": "",
-            "instrumento": "Cavaquinho",
-            "naipe": "Soprano",
-            "curso": "TESP - Acompanhamento de Crianças e Jovens",
-            "escola": "ESE"
-        },
-        {
-            "nome": "Xavier Barbosa",
-            "img_src": "xavier_barbosa",
-            "padrinho": "",
-            "madrinha": "",
-            "entrada": "2018",
-            "passagem": "",
-            "instrumento": "Flauta Transversal",
-            "naipe": "Baixo",
-            "curso": "Engenharia Informática",
-            "escola": "ISEP"
-        },
-        {
             "nome": "Ana Margarida Baptista",
             "img_src": "ana_margarida_baptista",
             "padrinho": "",
@@ -373,24 +194,12 @@
             "escola": "FEUP"
         },
         {
-            "nome": "Sara Alves",
-            "img_src": "sara_alves",
-            "padrinho": "",
-            "madrinha": "Mafalda Silva",
-            "entrada": "2018",
-            "passagem": "",
-            "instrumento": "Guitarra",
-            "naipe": "Soprano",
-            "curso": "Medicina",
-            "escola": "ICBAS"
-        },
-        {
             "nome": "André Camarinha",
             "img_src": "andre_camarinha",
-            "padrinho": "",
+            "padrinho": "André Ramos",
             "madrinha": "",
             "entrada": "2018",
-            "passagem": "",
+            "passagem": "2021",
             "instrumento": "Percussão",
             "naipe": "Baixo",
             "curso": "Curso Técnico Superior de Design de Jogos e Animação Digital",
@@ -402,7 +211,7 @@
             "padrinho": "",
             "madrinha": "",
             "entrada": "2018",
-            "passagem": "",
+            "passagem": "2021",
             "instrumento": "Porta-Estandarte",
             "naipe": "Contralto",
             "curso": "Design de Interiores",
@@ -410,36 +219,48 @@
         },
         {
             "nome": "Jéssica Lemos",
-            "img_src": "jessica_lemos",
-            "padrinho": "",
-            "madrinha": "",
+            "img_src": "jessica_lemos_tuno",
+            "padrinho": "André Ramos",
+            "madrinha": "Inês Almeida",
             "entrada": "2019",
-            "passagem": "",
+            "passagem": "2022",
             "instrumento": "Guitarra",
             "naipe": "Contralto",
             "curso": "Design de Interiores",
             "escola": "ESAD Matosinhos"
         },
         {
-            "nome": "Rute Araújo",
-            "img_src": "rute_araujo",
+            "nome": "Sara Alves",
+            "img_src": "sara_alves",
             "padrinho": "",
-            "madrinha": "",
-            "entrada": "2019",
-            "passagem": "",
-            "instrumento": "Pandeireta",
+            "madrinha": "Mafalda Silva",
+            "entrada": "2018",
+            "passagem": "2022",
+            "instrumento": "Guitarra",
             "naipe": "Soprano",
-            "curso": "Enfermagem",
-            "escola": "ESEP"
+            "curso": "Medicina",
+            "escola": "ICBAS"
+        },
+        {
+            "nome": "Márcia Pena",
+            "img_src": "marcia_pena",
+            "padrinho": "João Mendes",
+            "madrinha": "",
+            "entrada": "2018",
+            "passagem": "2022",
+            "instrumento": "Violino",
+            "naipe": "Contralto",
+            "curso": "Medicina",
+            "escola": "ICBAS"
         },
         {
             "nome": "Joana Dias",
             "img_src": "joana_dias",
-            "padrinho": "",
+            "padrinho": "Xavier Barbosa",
             "madrinha": "",
             "entrada": "2019",
             "passagem": "",
-            "instrumento": "",
+            "instrumento": "Pandeireita",
             "naipe": "Soprano",
             "curso": "Engenharia Eletrotécnica",
             "escola": "FEUP"
@@ -451,7 +272,7 @@
             "madrinha": "",
             "entrada": "2019",
             "passagem": "",
-            "instrumento": "Pandeireta",
+            "instrumento": "Percussão",
             "naipe": "Contralto",
             "curso": "Criminologia",
             "escola": "Universidade Lusíada Porto"
@@ -471,7 +292,7 @@
         {
             "nome": "Inês Ferreira",
             "img_src": "ines_ferreira",
-            "padrinho": "",
+            "padrinho": "Rafael Silva",
             "madrinha": "",
             "entrada": "2019",
             "passagem": "",
@@ -483,7 +304,7 @@
         {
             "nome": "Gonçalo Ferreira",
             "img_src": "goncalo_ferreira2",
-            "padrinho": "",
+            "padrinho": "Hugo Guedes",
             "madrinha": "",
             "entrada": "2019",
             "passagem": "",
@@ -491,6 +312,78 @@
             "naipe": "Baixo",
             "curso": "Engenharia Informática",
             "escola": "ISEP"
+        },
+        {
+            "nome": "Gonçalo Ferreira",
+            "img_src": "goncalo_ferreira2",
+            "padrinho": "Hugo Guedes",
+            "madrinha": "",
+            "entrada": "2019",
+            "passagem": "",
+            "instrumento": "Bandolim",
+            "naipe": "Baixo",
+            "curso": "Engenharia Informática",
+            "escola": "ISEP"
+        },
+        {
+            "nome": "Henrique Moura",
+            "img_src": "",
+            "padrinho": "",
+            "madrinha": "Catarina Coutinho",
+            "entrada": "2021",
+            "passagem": "",
+            "instrumento": "Guitarra",
+            "naipe": "Tenor",
+            "curso": "Medicina",
+            "escola": "FMUP"
+        },
+        {
+            "nome": "Clarisse Silva",
+            "img_src": "",
+            "padrinho": "",
+            "madrinha": "",
+            "entrada": "2021",
+            "passagem": "",
+            "instrumento": "Estandarte/Pandeireta",
+            "naipe": "Contralto",
+            "curso": "Biologia",
+            "escola": "FCUP"
+        },
+        {
+            "nome": "Tiago Alves",
+            "img_src": "",
+            "padrinho": "",
+            "madrinha": "",
+            "entrada": "2021",
+            "passagem": "",
+            "instrumento": "Guitarra/Bandolim",
+            "naipe": "Baixo",
+            "curso": "Engenharia Informática",
+            "escola": "FEUP"
+        },
+        {
+            "nome": "Mariana Semblano",
+            "img_src": "",
+            "padrinho": "",
+            "madrinha": "",
+            "entrada": "2021",
+            "passagem": "",
+            "instrumento": "Cavaquinho",
+            "naipe": "Soprano",
+            "curso": "Matemática",
+            "escola": "FCUP"
+        },
+        {
+            "nome": "João D'Aveiro",
+            "img_src": "",
+            "padrinho": "",
+            "madrinha": "",
+            "entrada": "2022",
+            "passagem": "",
+            "instrumento": "Guitarra",
+            "naipe": "Baixo",
+            "curso": "Biologia",
+            "escola": "FCUP"
         }
     ]
 }
