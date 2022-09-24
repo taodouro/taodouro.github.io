@@ -37,9 +37,6 @@ export default function HeaderLinks(props) {
             <Link to="/acercataod" className={classes.dropdownLink}>
               Sobre nós
             </Link>,
-            <Link to="/cancioneiro" className={classes.dropdownLink}>
-              Cancioneiro
-            </Link>,
             <Link to = "/galeria" className = {classes.dropdownLink}>
               Galeria
             </Link>,
@@ -48,6 +45,16 @@ export default function HeaderLinks(props) {
            </Link>           
           ]}
         />
+      </ListItem>
+      <ListItem className={classes.listItem}>
+          <Link
+            color="transparent"
+            to="/cancioneiro"
+            target = "_self"
+            className={classes.navLink}
+          >
+            Cancioneiro
+          </Link>
       </ListItem>
       <ListItem className={classes.listItem}>
           <Link
