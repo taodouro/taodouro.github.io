@@ -4,7 +4,7 @@ import {makeStyles } from "@material-ui/core/styles";
 import GridContainer from "components/Grid/GridContainer.js";
 import HeaderPage from "views/HeaderPage.js";
 import Typography from '@material-ui/core/Typography';
-import data from "assets/json/eventos.json"
+import data from "assets/json/eventos_organizado.json"
 import Footer from "components/Footer/Footer.js";
 
 import image1 from "assets/img/eventos/VIII Tunas D'Ouro/P1010334.JPG.jpg";
