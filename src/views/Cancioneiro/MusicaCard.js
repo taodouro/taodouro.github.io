@@ -24,6 +24,10 @@ const SpotifyButton = withStyles({
     },
 })(Button);
 
+function isNullOrEmpty( s ) 
+{
+    return ( s == null || s === "" );
+}
 
 const textStyle = {
     textAlign: "center"
@@ -60,6 +64,10 @@ export default function MusicaCard(props) {
                 <p key={index} style={textStyle}>
                     <b>{linha}</b>
                 </p>
+            )
+        } else if(isNullOrEmpty(linha)){
+            return(
+                <br></br>
             )
         } else {
             return (
@@ -103,7 +111,7 @@ export default function MusicaCard(props) {
                 </button>
                 <Dialog id={"modal"}
                     open={isOpen}
-                    style={{ backgroundColor: 'transparent' }}
+                    style={{ backgroundColor: 'transparent', width: '100%' }}
                     disableScrollLock 
                     onClose={handleDialogClose}
                     aria-labelledby="modal-slide-title"

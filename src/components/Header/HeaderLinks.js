@@ -36,45 +36,45 @@ export default function HeaderLinks(props) {
           dropdownList={[
             <Link to="/acercataod" className={classes.dropdownLink}>
               Sobre nós
+            </Link>,            
+            <Link to="/membros" className={classes.dropdownLink}>
+              Membros
+            </Link>,            
+            <Link to="/premios" className={classes.dropdownLink}>
+              Prémios
             </Link>,
-            <Link to = "/galeria" className = {classes.dropdownLink}>
+            <Link to="/galeria" className={classes.dropdownLink}>
               Galeria
             </Link>,
-            <Link to = "/socio" className = {classes.dropdownLink}>
-             Torna-te Socio!
-           </Link>           
+            <Link to="/socio" className={classes.dropdownLink}>
+              Torna-te Socio!
+            </Link>,
+            <Link
+              color="transparent"
+              to="/cancioneiro"
+              target="_self"
+              className={classes.dropdownLink}
+            >
+              Cancioneiro
+            </Link>,
+            <Link
+              color="transparent"
+              to="/loja"
+              target="_self"
+              className={classes.dropdownLink}
+            >
+              Loja
+            </Link>,
+            <Link
+              color="transparent"
+              to="/contacto"
+              target="_self"
+              className={classes.dropdownLink}
+            >
+              Contactos
+            </Link>
           ]}
         />
-      </ListItem>
-      <ListItem className={classes.listItem}>
-          <Link
-            color="transparent"
-            to="/cancioneiro"
-            target = "_self"
-            className={classes.navLink}
-          >
-            Cancioneiro
-          </Link>
-      </ListItem>
-      <ListItem className={classes.listItem}>
-          <Link
-            color="transparent"
-            to="/loja"
-            target = "_self"
-            className={classes.navLink}
-          >
-            Loja
-          </Link>
-      </ListItem>
-      <ListItem className={classes.listItem}>
-          <Link
-            color="transparent"
-            to="/contacto"
-            target = "_self"
-            className={classes.navLink}
-          >
-            Contacto
-          </Link>
       </ListItem>
       <ListItem className={classes.listItem}>
         <Tooltip

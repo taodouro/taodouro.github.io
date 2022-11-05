@@ -58,22 +58,6 @@ export default function AcercaPage() {
                     <p>
                         {texto}
                     </p>
-                    <GridContainer alignItems="center" justify="center">
-                        <GridItem xs={12} sm={6} style={{ textAlign: 'center' }}>
-                            <Button className={classes.button} component={Link} to="/premios" color="github">
-                                <Typography variant="h4" component="h2">
-                                    Prémios
-                        </Typography>
-                            </Button>
-                        </GridItem>
-                        <GridItem xs={12} sm={6} style={{ textAlign: 'center' }}>
-                            <Button className={classes.button} component={Link} to="/membros" color="github">
-                                <Typography variant="h4" component="h2">
-                                    Membros
-                        </Typography>
-                            </Button>
-                        </GridItem>
-                    </GridContainer>
                 </div>
                 <Footer whiteFont />
             </div>
