@@ -2,10 +2,17 @@ import React from "react";
 import Paper from '@material-ui/core/Paper';
 import Slider from "react-slick";
 import "assets/css/patrocinios.css"
-import patrocinios from "assets/json/patrocinios"
+import patrocinios from "assets/json/patrocinios.json"
 import Typography from '@material-ui/core/Typography';
+import { withStyles } from "@material-ui/core/styles";
 import { Divider } from '@material-ui/core';
 import { BrowserView, MobileView } from 'react-device-detect';
+
+const WhiteTextTypography = withStyles({
+    root: {
+      color: "#FFFFFF"
+    }
+  })(Typography);
 
 const carousel_settings = {
     dots: false,
@@ -14,7 +21,8 @@ const carousel_settings = {
     slidesToShow: 3,
     slidesToScroll: 1,
     autoplay: true,
-    focusOnSelect: true
+    focusOnSelect: true,
+    outerHeight: "auto"
 };
 
 const carousel_settings_mobile = {
@@ -38,14 +46,15 @@ function getImages() {
                     </div>
                 </a>
                 <div id="name">
-                    <Typography variant="button" align="center">
+                    <WhiteTextTypography variant="h5" align="center">
                         {i.nome}
-                    </Typography>
+                    </WhiteTextTypography>
                 </div>
+                <br></br>
                 <div id="content">
-                    <Typography variant="body1" align="center">
+                    <WhiteTextTypography variant="body2" align="center">
                         {i.desconto}
-                    </Typography>
+                    </WhiteTextTypography>
                 </div>
             </div>
         )
@@ -62,14 +71,13 @@ export default function Patrocinios(props) {
     return (
         <>
             <BrowserView>
-                <Paper>
+                
                     <h2>Parceiros e Benefícios</h2>
                     <div id="container">
                         <Slider {...carousel_settings} >
                             {fotos}
                         </Slider>
                     </div>
-                </Paper>
             </BrowserView>
             <MobileView>
                 <Paper>

@@ -12,9 +12,10 @@ import HeaderPage from "views/HeaderPage.js";
 import styles from "assets/jss/material-kit-react/views/cancioneiroPage.js";
 import "assets/scss/plugins/plugin-galeria.scss";
 
-import image from "assets/img/eventos/1.jpg"
+import background from "assets/img/Simbolo_Branco_Fundo_Preto.png";
 
-import Patrocinios from "components/Patrocinios/Patrocinios";
+
+import Patrocinios from "components/Patrocinios/Patrocinios.js";
 
 const useStyles = makeStyles(styles);
 
@@ -31,7 +32,7 @@ export default function LandingPage() {
         <div
         className={classes.pageHeader}
         style={{
-          backgroundImage: "url(" + image + ")",
+          backgroundImage: "url(" + background + ")",
           backgroundSize: "cover",
           backgroundPosition: "top center"
         }}
