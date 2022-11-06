@@ -80,14 +80,12 @@ export default function Patrocinios(props) {
                     </div>
             </BrowserView>
             <MobileView>
-                <Paper>
                     <h2>Parceiros e Benefícios</h2>
                     <div id="container">
                         <Slider {...carousel_settings_mobile} >
                             {fotos}
                         </Slider>
                     </div>
-                </Paper>
             </MobileView>
         </>
     );
