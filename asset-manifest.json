@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.14dfd540.chunk.css",
-    "main.js": "/static/js/main.3e8b348b.chunk.js",
-    "main.js.map": "/static/js/main.3e8b348b.chunk.js.map",
+    "main.js": "/static/js/main.547c20dc.chunk.js",
+    "main.js.map": "/static/js/main.547c20dc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f74c18f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.f74c18f6.js.map",
-    "static/js/2.eb8653cf.chunk.js": "/static/js/2.eb8653cf.chunk.js",
-    "static/js/2.eb8653cf.chunk.js.map": "/static/js/2.eb8653cf.chunk.js.map",
+    "static/js/2.d4e4528b.chunk.js": "/static/js/2.d4e4528b.chunk.js",
+    "static/js/2.d4e4528b.chunk.js.map": "/static/js/2.d4e4528b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.609b418507ac090bac2856eb41c41d63.js": "/precache-manifest.609b418507ac090bac2856eb41c41d63.js",
+    "precache-manifest.ddc6d68e4252c3430dde9b8da9a1b045.js": "/precache-manifest.ddc6d68e4252c3430dde9b8da9a1b045.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.14dfd540.chunk.css.map": "/static/css/main.14dfd540.chunk.css.map",
-    "static/js/2.eb8653cf.chunk.js.LICENSE.txt": "/static/js/2.eb8653cf.chunk.js.LICENSE.txt",
+    "static/js/2.d4e4528b.chunk.js.LICENSE.txt": "/static/js/2.d4e4528b.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.f2cd019d.jpg",
     "static/media/10300277_797997193557839_6448900840884838097_n.jpg": "/static/media/10300277_797997193557839_6448900840884838097_n.037869fc.jpg",
     "static/media/10325367_789226737784215_7699705597989847400_n.jpg": "/static/media/10325367_789226737784215_7699705597989847400_n.60912c06.jpg",
@@ -161,6 +161,7 @@
     "static/media/IMG_20181114_213410_edited.jpg": "/static/media/IMG_20181114_213410_edited.6f767cbc.jpg",
     "static/media/P1010334.JPG.jpg": "/static/media/P1010334.JPG.4ff47c4e.jpg",
     "static/media/Sem_Título11.jpg": "/static/media/Sem_Título11.b648039a.jpg",
+    "static/media/Simbolo_Branco_Fundo_Preto.png": "/static/media/Simbolo_Branco_Fundo_Preto.1f9ad8a3.png",
     "static/media/TAOD.jpg": "/static/media/TAOD.dfef323a.jpg",
     "static/media/TAOD2.jpg": "/static/media/TAOD2.a1bddee9.jpg",
     "static/media/Termos-Condições-Sócio.pdf": "/static/media/Termos-Condições-Sócio.9b03cbf0.pdf",
@@ -244,8 +245,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f74c18f6.js",
-    "static/js/2.eb8653cf.chunk.js",
+    "static/js/2.d4e4528b.chunk.js",
     "static/css/main.14dfd540.chunk.css",
-    "static/js/main.3e8b348b.chunk.js"
+    "static/js/main.547c20dc.chunk.js"
   ]
 }

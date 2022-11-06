@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "17d3649018fa39e1629732bf0ebe2727",
+    "revision": "c8d7577b1d5032b8fae00f4ff52ac580",
     "url": "/index.html"
   },
   {
-    "revision": "3c2859850b9eccd9c2bd",
+    "revision": "f707526189dcf9727777",
     "url": "/static/css/main.14dfd540.chunk.css"
   },
   {
-    "revision": "f3f25a52d9cbedbcf391",
-    "url": "/static/js/2.eb8653cf.chunk.js"
+    "revision": "0a198d237442d192c2a7",
+    "url": "/static/js/2.d4e4528b.chunk.js"
   },
   {
     "revision": "0023facb0adb4f9ea5db701618575fa8",
-    "url": "/static/js/2.eb8653cf.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.d4e4528b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3c2859850b9eccd9c2bd",
-    "url": "/static/js/main.3e8b348b.chunk.js"
+    "revision": "f707526189dcf9727777",
+    "url": "/static/js/main.547c20dc.chunk.js"
   },
   {
     "revision": "365f3815322e49a0707b",
@@ -630,6 +630,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b648039a5ed82fd5d7864cf42787eff0",
     "url": "/static/media/Sem_Título11.b648039a.jpg"
+  },
+  {
+    "revision": "1f9ad8a3dd8105f01f3bb9a5f4fcd768",
+    "url": "/static/media/Simbolo_Branco_Fundo_Preto.1f9ad8a3.png"
   },
   {
     "revision": "dfef323afa270d6ed331f5492814d979",
