@@ -8,7 +8,7 @@ import Footer from "components/Footer/Footer.js";
 import GridContainer from "components/Grid/GridContainer.js";
 
 import styles from "assets/jss/material-kit-react/views/cancioneiroPage.js";
-import background from "assets/img/eventos/Apresentação CD TAOD - set 2018/DSC05705.jpg";
+import background from "assets/img/Simbolo_Branco_Fundo_Preto.png";
 import data from "assets/json/musicas.json"
 
 import "./Cancioneiro.css";

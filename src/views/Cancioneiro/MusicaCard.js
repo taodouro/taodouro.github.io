@@ -33,6 +33,11 @@ const textStyle = {
     textAlign: "center"
 };
 
+const letraStyle = {
+    textAlign: "center",
+    "font-size": "100%"
+}
+
 const useStyles = makeStyles(styles);
 
 export default function MusicaCard(props) {
@@ -61,7 +66,7 @@ export default function MusicaCard(props) {
     const letra = musica.letra.map(function (linha, index) {
         if (linha.includes("Refrão")) {
             return (
-                <p key={index} style={textStyle}>
+                <p key={index} style={letraStyle}>
                     <b>{linha}</b>
                 </p>
             )
@@ -71,7 +76,7 @@ export default function MusicaCard(props) {
             )
         } else {
             return (
-                <p key={index} style={textStyle}>
+                <p key={index} style={letraStyle}>
                     {linha}
                 </p>
             )
@@ -116,8 +121,8 @@ export default function MusicaCard(props) {
                     onClose={handleDialogClose}
                     aria-labelledby="modal-slide-title"
                     aria-describedby="modal-slide-description"
-                    fullWidth="sm"
-                    maxWidth="sm"
+                    fullWidth="md"
+                    maxWidth="md"
                     overlayStyle={{ backgroundColor: 'transparent' }
                     }
                 >
